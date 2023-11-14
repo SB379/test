@@ -1,1 +1,1 @@
-assets file
+changes to assets file for auth
